@@ -1,0 +1,6 @@
+{
+	"wait": {
+		"type": "int",
+		"value": 5
+	}
+}
